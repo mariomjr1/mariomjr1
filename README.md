@@ -55,5 +55,3 @@ I'm continuously expanding my skillset, currently diving deeper into:
 * **LinkedIn:** (https://www.linkedin.com/in/mario-minor-murakami-junior-9b6380144/)
 
 ---
-
-Cheers!
