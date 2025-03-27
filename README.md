@@ -8,7 +8,7 @@ I'm a **Postdoctoral Research Fellow** at the **Martinos Center for Biomedical I
 
 * 👨‍⚕️ MD from University of Sao Paulo with expertise in neuroanatomy and clinical research principles.
 * 🔬 Focused on multimodal neuroimaging: **fMRI** (task-based & resting-state), **PET-MR** (neuroinflammation, receptor mapping), **DTI** (tractography, structural connectivity), and **MRS** (metabolite analysis).
-* 💻 Developing and applying computational pipelines for complex neuroimaging data analysis.
+* 💻 Developing and applying computational pipelines for neuroimaging data analysis.
 
 ---
 
