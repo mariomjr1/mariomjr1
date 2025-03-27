@@ -52,6 +52,6 @@ I'm continuously expanding my skillset, currently diving deeper into:
 ### 📫 Get In Touch
 
 * **Email:** mmurakamijunior@mgh.harvard.edu
-* **LinkedIn:** (https://www.linkedin.com/in/mario-minor-murakami-junior-9b6380144/)
+* **LinkedIn:** https://www.linkedin.com/in/mario-minor-murakami-junior-9b6380144/
 
 ---
